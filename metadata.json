@@ -1,0 +1,6 @@
+{
+  "name": "巴黎欧莱雅 AI美妆助手 (L'Oréal Beauty Tech)",
+  "description": "巴黎欧莱雅AI美妆科技助手：提供个性化肤质评估、局部校色与底妆遮瑕方案，融合品牌温情关怀与安全健康支持。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
